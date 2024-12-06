@@ -1,0 +1,20 @@
+clase-2
+
+1-Realizá un programa que permita ingresar un número entero e indique si se trata de un número par o impar. 
+2-Realizá un programa que permita ingresar dos números enteros e indique cuál de ellos es el mayor. [EC] 
+3.Realizá un programa para ingresar tres números enteros e indique cuál de ellos es el mayor y su valor. [EC] 
+
+—
+bucles
+1- Escribe una función que imprima los números del 1 al 100. Usa un bucle for para hacerlo.
+
+2- Crea una función que imprima todos los números pares del 1 al 50 utilizando un bucle while.
+
+3- Escribe una función que calcule el factorial de un número dado usando un bucle for. El factorial de un número n es el producto de todos los números desde 1 hasta n.
+
+4- Crea una función que reciba un número N y luego imprima los primeros N números impares utilizando un bucle for.
+
+5- Escribe una función que muestre un menú con opciones del 1 al 3. Dependiendo de la opción elegida por el usuario (usando prompt), se debe ejecutar una acción diferente.
+6- Crea una función que reciba un número límite y sume todos los números pares desde 1 hasta ese límite usando un bucle while.
+7- Escribe una función que pida una palabra al usuario y cuente cuántas letras tiene, utilizando un bucle while.
+8- Crea una función que imprima las potencias de 2 desde 2^1 hasta 2^10 utilizando un bucle for.
